@@ -42,11 +42,10 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 <br clear="right"/>
 
 
-◈  Class     →  Full-Stack Developer
+◈  Names     →  Silva.
 ◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
+◈ languages  →  🇧🇷 🇺🇸 🇫🇷
+
 
 ---
 
@@ -86,7 +85,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 ---
 
-## 📜 Contribution Graph
+## 🩶 Contribution Graph
 
 <div align="center">
 
@@ -107,7 +106,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 ---
 
-## 🗡️ Featured Projects
+## 💻 Featured Projects 📱
 
 <div align="center">
 
